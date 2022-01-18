@@ -1,4 +1,4 @@
-print("loading...")
+print("hello...")
 from os.path import isfile
 from tkinter import *
 from tkinter import filedialog
